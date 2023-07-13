@@ -1,5 +1,5 @@
 Time Complexity
-
+n is the size of randomly generated array
 Quick Sort v/s Merge sort:
 
 n	                                                           1e2	  1e3	  1e4	    1e5	   1e6
