@@ -10,6 +10,6 @@ Number of times merge sort outperformed quick sort	           6       0	     0	 
 Quick Sort v/s Improved Merge sort:
 
 n	                                                           1e2	  1e3	  1e4	   1e5	     1e6
-Average running time of quick sort	                         11.85	79.14 903.59 11156.67 135185.15
+Average running time of quick sort	                         11.85	79.14 903.59   11156.67 135185.15
 Average running time of improved merge sort	                 14.16	93.85	1068.37	13248.60 161783.19
 Number of times improved merge sort outperformed quick sort	  7	    0	     0	      0	    0
